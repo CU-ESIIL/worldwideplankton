@@ -1,6 +1,6 @@
-# Working Group Template
+# Linking Food Web Theory with Global Data to Quantify Plankton Trophic Interactions 
 
-This repository is a template for ESIIL Working Groups.
+This repository isfor the Worldwide Changing Plankton Working Group 
 
 This template is designed as one connected system:
 
