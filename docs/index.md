@@ -13,8 +13,6 @@ As the working group progresses, the repository becomes the reproducible record 
 
 ![Working Group Hero](assets/images/slots/hero_background.png){ .homepage-hero }
 
---8<-- "_generated/slot_notes/hero.md"
-
 ## Working Group Abstract
 
 Freshwater ecosystems provide ecological, cultural, and economic benefits yet remain threatened by worldwide biodiversity loss and understudied compared to terrestrial and marine ecosystems. Furthermore, while zooplankton are key drivers of ecosystem function within lakes, providing food for fish to grow and grazing phytoplankton (i.e., algae) to manage water quality, important questions remain regarding zooplankton biodiversity response to global change and how these changes may influence zooplankton-algae trophic interactions. Changes in the diversity of zooplankton worldwide can lead to excess algal growth negatively impacting water quality, human health, tourism, and property values. Using the largest dataset of zooplankton freshwater biodiversity we will quantify the breadth of zooplankton thermal tolerances as well as their composition across different climate regimes worldwide. Then, by integrating this zooplankton dataset with the largest dataset of algal freshwater diversity we will address how trophic interactions have been changing over time and across the globe. We will accomplish both of these goals relying on new and established effective team science methods, drawing from the group’s diverse background and expertise, and share our results and data broadly.  
