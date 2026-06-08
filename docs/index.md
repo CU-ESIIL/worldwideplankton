@@ -11,7 +11,7 @@ As the working group progresses, the repository becomes the reproducible record 
 [Edit this homepage in GitHub](https://github.com/CU-ESIIL/worldwideplankton/blob/main/docs/index.md){ .md-button .md-button--secondary }
 [Open the GitHub repository](https://github.com/CU-ESIIL/worldwideplankton){ .md-button }
 
-![Working Group Hero](assets/images/slots/hero/hero_background.png){ .homepage-hero }
+![Working Group Hero](assets/images/slots/hero/hero_plankton.png){ .homepage-hero }
 
 ## Working Group Abstract
 
