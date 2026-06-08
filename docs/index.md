@@ -124,6 +124,8 @@ Related landmark: WG-A People and roles.
 
 --8<-- "_generated/slot_notes/group-photo.md"
 
+| Person | Role | Institution | Expertise |
+| ------- | ------- | --------- | ---------- |
 | Tyler Butts | PI | University of Minnesota - Twin Cities | Zooplankton, Food Webs, Time Series, Ecosystem Ecology |
 | Michael Meyer | Co-PI | U.S. Geological Survey | Geography, Remote Sensing, Aquatic Ecology |
 | Chase Rakowski | Co-PI | University of Colorado - Boulder | Food Webs, Predator-Prey Interactions |
