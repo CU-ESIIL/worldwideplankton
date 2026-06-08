@@ -2,9 +2,7 @@
 
 ## Linking Food Web Theory with Global Data to Quantify Plankton Trophic Interactions 
 
-Worldwide Changing Plankton
-
-This working group runs as a single system: a GitHub repository where environmental data science is organized, analyzed, and versioned, and a public website where results are explained and shared with the community.
+Welcome to the worldwideplankton repository, part of the third cohort of working groups within the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository is the central hub for our working group, encompassing our project overview, project updates, team member information, and our developing codebase integrating the Zooplankton International Geospatial (ZIG) dataset of freshwater zooplankton to the Global Evaluation of Storms on freshwater Habitat and structure of phytoplankton Assemblages (GEISHA) dataset of freshwater phytoplankton.
 
 As the working group progresses, the repository becomes the reproducible record of the science, and the website becomes the public report.
 
@@ -13,7 +11,7 @@ As the working group progresses, the repository becomes the reproducible record 
 
 ![Working Group Hero](assets/images/slots/hero/hero_plankton.png){ .homepage-hero }
 
-## Working Group Abstract
+## Our Task
 
 Freshwater ecosystems provide ecological, cultural, and economic benefits yet remain threatened by worldwide biodiversity loss and understudied compared to terrestrial and marine ecosystems. Furthermore, while zooplankton are key drivers of ecosystem function within lakes, providing food for fish to grow and grazing phytoplankton (i.e., algae) to manage water quality, important questions remain regarding zooplankton biodiversity response to global change and how these changes may influence zooplankton-algae trophic interactions. Changes in the diversity of zooplankton worldwide can lead to excess algal growth negatively impacting water quality, human health, tourism, and property values. Using the largest dataset of zooplankton freshwater biodiversity we will quantify the breadth of zooplankton thermal tolerances as well as their composition across different climate regimes worldwide. Then, by integrating this zooplankton dataset with the largest dataset of algal freshwater diversity we will address how trophic interactions have been changing over time and across the globe. We will accomplish both of these goals relying on new and established effective team science methods, drawing from the group’s diverse background and expertise, and share our results and data broadly.  
 
@@ -126,9 +124,18 @@ Related landmark: WG-A People and roles.
 
 --8<-- "_generated/slot_notes/group-photo.md"
 
-| Name | Role | Institution | Responsibilities |
-| --- | --- | --- | --- |
-| Name | Role | Institution | Responsibilities |
-| Name | Role | Institution | Responsibilities |
+| Tyler Butts | PI | University of Minnesota - Twin Cities | Zooplankton, Food Webs, Time Series, Ecosystem Ecology |
+| Michael Meyer | Co-PI | U.S. Geological Survey | Geography, Remote Sensing, Aquatic Ecology |
+| Chase Rakowski | Co-PI | University of Colorado - Boulder | Food Webs, Predator-Prey Interactions |
+| Stephanie Figary | Co-PI | University of Vermont | Community Ecology, Freshwater Ecology, Food Webs |
+| Jason Stockwell | Co-PI | University of Vermont | Food Webs, Phytoplankton, Fish, Zooplankton, Team Science | 
+| Celia Symons | Co-PI | University of California-Irvine | Zooplankton, Community Ecology, Functional Diversity, Time Series | 
+| Rachel Pilla | Co-PI | Oak Ridge National Laboratory | Freshwater Ecology, Time Series, Statistical Modeling | 
+| Lorena Silva | Participant | University of Maryland | Zooplankton, Community Ecology, Machine Learning, Statistical Modeling | 
+| Anna Schmidt | Participant | University of Vermont | Statistical Modeling, Zooplankton |
+| Eckhardt Karsten | Participant | University of California-Davis | Data Management, Statistical Modeling, Co-occurrence Modeling | 
+| Stephanie Hampton | Participant | University of California-Davis | Freshwater Ecology, Ecosystem Ecology, Zooplankton | 
+| Rosalie Bruel | Participant | OFB, DRAS, Service EcoAqua | Time Series, Multi-lake Analysis, Network Animation | 
+| Shin-Ichiro Matsuzaki | Participant | Natinoal Institute for Environmental Studies, Japan | Long-term monitoring, Species interactions, Food Web, Watershed Management | 
 
 --8<-- "_generated/image_slots.md"
