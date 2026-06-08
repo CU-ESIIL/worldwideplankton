@@ -1,14 +1,8 @@
 # Linking Food Web Theory with Global Data to Quantify Plankton Trophic Interactions 
 
-This repository isfor the Worldwide Changing Plankton Working Group 
+Welcome to the [worldwideplankton](https://github.com/CU-ESIIL/worldwideplankton) repository, part of the third cohort of working groups within the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository is the central hub for our working group, encompassing our project overview, project updates, team member information, and our developing codebase integrating the Zooplankton International Geospatial (ZIG) dataset of freshwater zooplankton to the Global Evaluation of Storms on freshwater Habitat and structure of phytoplankton Assemblages (GEISHA) dataset of freshwater phytoplankton. 
 
-This template is designed as one connected system:
-
-- The repository is where the science happens.
-- The website is where the science is shared.
-- GitHub connects them through commits, version history, and publishing.
-
-## How this repository is organized
+## How this repository is organized [In Development] 
 
 The repository has two connected layers. Top-level files configure the project and its automation. The `docs/` folder contains the website content. `mkdocs.yml` tells MkDocs how to turn that content into the public site. Analysis folders hold the working scientific materials that generate the results shown on the website.
 
